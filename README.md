@@ -5,4 +5,6 @@
 
 ✅ cd MULTI-2008-BY-XDM4HIN
 
-✅ python 
+✅ python MULTI2008mK.py
+
+note:- this tools are paid,so you need approval,,
