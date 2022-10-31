@@ -7,4 +7,4 @@
 
 ✅ python MULTI2008mK.py
 
-note:- this tools are paid,so you need approval,,
+note:- this tools are paid,so need approval,,
